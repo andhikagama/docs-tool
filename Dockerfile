@@ -12,3 +12,4 @@ RUN npm install -g api-spec-converter
 RUN npm install -g drafter
 RUN npm install -g @apielements/cli
 RUN npm install -g openapi-to-postmanv2
+RUN npm install -g hercule
